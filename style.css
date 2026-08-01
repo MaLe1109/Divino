@@ -35,6 +35,7 @@ h1 {
     0 0 20px #ff0000,
     0 0 30px #ff0000,
     0 0 40px #ff0000;
+    box-sizing: border-box;
 }
 
 .text-bio {
